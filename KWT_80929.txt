@@ -1,0 +1,193 @@
+﻿easySoft-Pro V6.96	KWT_80929.e60
+ESOPK 1.01	03.09.2019  08:33:27
+NET-ID	Operand	Deutsch
+1	2SN01	2Q01 -Signal Filter 1 bereit
+1	2SN02	2Q02 Signal Filter 2 bereit
+1	2SN03	2Q03 Signal Filter 3 bereit
+1	2SN04	2Q04 Signal Filter 1 in Betrieb
+1	2SN05	2Q05 Signal Filter 2 in Betrieb
+1	2SN06	2Q06 Signal Filter 3 in Betrieb
+1	2SN07	Störung
+1	2SN08	2Q08 Medium Ein
+1	2SN09	Betriebsmerker
+1	2SN10	Blinker
+1	2SN11	Störung quittieren
+1	2SN12	2S02 Filter 1 Lampe
+1	2SN13	2S03 Filter 2 Lampe
+1	2SN14	2S04 Filter 3 Lampe
+1	2SN15	P04
+1	A01	Delta P Alarm 1
+1	A02	Delta P Alarm 2
+1	AR01	Delta P 1
+1	AR02	Delta P 2
+1	C01	Kanalauswahl 1
+1	C02	Kanalauswahl 2
+1	CP01	Delta P negativ 1
+1	CP02	Delta P negativ 2
+1	D01	Delta P Alarm 1
+1	D02	Delta P Alarm 2
+1	D03	Delta P Alarm 3
+1	D04	Delta P Alarm 4
+1	D05	Ext. Freigabe
+1	D06	Tmp. Freigabe
+1	D07	Sommerzeit
+1	FT01	Delta P Filter 1
+1	FT02	Delta P Filter 2
+1	GT01	2MD3 NET
+1	HY01	Sommerzeit
+1	I01	Anlage Ein von Extern Sommerzeit
+1	I02	Freispülen Filter 1 Ein
+1	I03	Freispülen Filter 2 Ein
+1	I04	Freispülen Filter 3 Ein
+1	I05	Reserve
+1	I06	Reserve
+1	I07	Sprührohr 1 Einlauf
+1	I08	Sprührohr 1 Auslauf
+1	I09	Reserve
+1	I10	Reserve
+1	I11	Sprührohr 2 Einlauf
+1	I12	Sprührohr 2 Auslauf
+1	LS01	Delta P Filter1
+1	LS02	Delta P Filter2
+1	M04	Tmp. Betriebsmerker
+1	M05	Temp
+1	M06	Willspülen
+1	M33	2Betriebsmerker
+1	M36	2Delta P Alarm 1
+1	M37	2Spülen 1
+1	M38	2 Willspülen 1
+1	M39	2 Entleeren 1
+1	M44	2Delta P Alarm 2
+1	M45	2Spülen 2
+1	M46	2 Willspülen 2
+1	M47	2 Entleeren 2
+1	M65	Betriebsmerker
+1	M66	Blinker
+1	M67	Störung
+1	M68	Delta P Alarm 1
+1	M69	Spülen 1
+1	M70	Willspülen 1
+1	M71	Entleeren 1
+1	M76	Delta P Alarm 2
+1	M77	Spülen 2
+1	M78	Willspülen 2
+1	M79	Entleeren 2
+1	M84	Delta P Alarm 3
+1	M85	Spülen 3
+1	M86	Willspülen 3
+1	M87	Entleeren 3
+1	M92	Delta P Alarm 4
+1	M93	Spülen 4
+1	M94	Willspülen 4
+1	M95	Entleeren 4
+1	MX01	Mux 1
+1	MX02	Mux 2
+1	Q01	Sprührohr 1 Einlauf
+1	Q02	Sprührohr 1 Auslauf
+1	Q03	Sprührohr 2 Einlauf
+1	Q04	Sprührohr 2 Auslauf
+1	Q05	Sprührohr 3 Einlauf
+1	Q06	Sprührohr 3 Auslauf
+1	Q07	Reserve
+1	Q08	Reserve
+1	R01	Filter 1 Ein
+1	R02	Filter 2 Ein
+1	R03	Filter 3 Ein
+1	R04	Störung quittieren
+1	R05	Reserve
+1	R06	Reserve
+1	R07	Reserve
+1	R08	Reserve
+1	R09	Reserve
+1	R10	Reserve
+1	R11	Reserve
+1	R12	Reserve
+1	S01	Entleerung Pumpe 1
+1	S02	Entleerung Pumpe 2
+1	S03	Entleerung Pumpe 3
+1	S04	Reserve
+1	S05	Reserve
+1	S06	Reserve
+1	S07	Reserve
+1	S08	Reserve
+1	T01	Gesamtzeit 1
+1	T02	Spülimpuls 1
+1	T03	Gesamtzeit 2
+1	T04	Spülimpuls 2
+1	T05	Spülzeit 1
+1	T06	Entleerungszeit 1
+1	T07	Spülzeit 2
+1	T08	Entleerungszeit 2
+1	T10	Blinker
+1	T11	Betriebsmerker Verlängerung
+1	T12	Verz. Störung
+1	T13	Verz. Tmp. Betriebsmerker
+1	T14	Impuls Willspülen
+1	T15	P02 Impuls
+1	T16	P03 Impuls
+2	A01	Delta P Alarm 1
+2	A02	Delta P Alarm 2
+2	AR01	Delta P 1
+2	AR02	Delta P 2
+2	C01	Kanalauswahl 1
+2	C02	Kanalauswahl 2
+2	CP01	Delta P negativ 1
+2	CP02	Delta P negativ 2
+2	FT01	Delta P Filter 1
+2	FT02	Delta P Filter 2
+2	I01	Reserve
+2	I02	Reserve
+2	I03	Reserve
+2	I04	Reserve
+2	I05	Reserve
+2	I06	Reserve
+2	I07	Reserve
+2	I08	Reserve
+2	I09	Reserve
+2	I10	Reserve
+2	I11	Sprührohr 3 Einlauf
+2	I12	Sprührohr 3 Auslauf
+2	LS01	Delta P Filter1
+2	LS02	Delta P Filter2
+2	M05	Temp
+2	M65	Betriebsmerker
+2	M66	Blinker
+2	M67	Störung
+2	M68	Delta P Alarm 1
+2	M69	Spülen 1
+2	M70	Willspülen 1
+2	M76	Delta P Alarm 2
+2	M77	Spülen 2
+2	M78	Willspülen 2
+2	MX01	Mux 1
+2	MX02	Mux 2
+2	PT01	2MD3 NET
+2	Q01	Signal Filter 1 bereit
+2	Q02	Signal Filter 2 bereit
+2	Q03	Signal Filter 3 bereit
+2	Q04	Signal Filter 1 in Betrieb
+2	Q05	Signal Filter 2 in Betrieb
+2	Q06	Signal Filter 3 in Betrieb
+2	Q07	Störung
+2	Q08	Medium Ein
+2	R01	Reserve
+2	R02	Reserve
+2	R03	Reserve
+2	R04	Reserve
+2	R05	Reserve
+2	R06	Reserve
+2	S01	Störung
+2	S02	Filter 1 Lampe
+2	S03	Filter 2 Lampe
+2	S04	Filter 3 Lampe
+2	T01	Gesamtzeit 1
+2	T02	Spülimpuls 1
+2	T03	Gesamtzeit 2
+2	T04	Spülimpuls 2
+2	T05	Spülzeit 1
+2	T06	Entleerungszeit 1
+2	T07	Spülzeit 2
+2	T08	Entleerungszeit 2
+2	T10	Blinker NET SET
+2	T15	P04 Impuls
+2	T16	P04 Impuls
