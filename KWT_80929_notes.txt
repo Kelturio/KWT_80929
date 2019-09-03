@@ -1,0 +1,17 @@
+﻿easySoft-Pro V6.96	KWT_80929.e60
+ESNZ 1.01	03.09.2019  08:33:32
+NET-ID	Strompfad	Deutsch
+1	001	Delta P 1
+1	016	Delta P 2
+1	073	Ausgänge NET-ID 1
+1	055	NET SET
+1	061	NET GET
+1	031	Blinker
+1	091	Ausgänge NET-ID 2
+1	035	Betriebsmerker
+1	047	Textanzeigen
+2	001	Delta P 1
+2	016	Delta P 2
+2	040	Ausgänge NET-ID 2
+2	032	NET SET
+2	035	NET GET
